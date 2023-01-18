@@ -6,7 +6,6 @@
 package ejemplos;
 
 import java.security.SecureRandom;
-import java.util.Locale;
 import java.util.Scanner;
 // import java.security.*;
 
